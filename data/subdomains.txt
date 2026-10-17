@@ -1,0 +1,17 @@
+# Common subdomains wordlist (safe example)
+www
+mail
+webmail
+smtp
+ns
+ns1
+ns2
+admin
+api
+dev
+staging
+blog
+shop
+support
+portal
+m
